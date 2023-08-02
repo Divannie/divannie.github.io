@@ -1,0 +1,11 @@
+body {
+  background-color: lightsteelblue;
+}
+body h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  text-align: center;
+}
+body form {
+  color: white;
+}/*# sourceMappingURL=index .css.map */
